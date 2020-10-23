@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "nardner",
+      "street": "mdu",
+      "city": "rohtak",
+      "state": "harayna",
+      "zipcode": "1240001",
+      "id": 14
+    },
+    {
+      "name": "aman",
+      "street": "dlf",
+      "city": "rohtak",
+      "state": "haryana",
+      "zipcode": "1240005",
+      "id": 15
+    }
+  ]
+}
